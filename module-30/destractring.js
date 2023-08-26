@@ -7,7 +7,7 @@ const actor = {
 
 
 // if right is an object left side of destructring will be object as well 
-const {phone} = actor
+const {phone, age: boyos} = actor
 
 // const phone = actor.phone;
 // const name = actor.name;
